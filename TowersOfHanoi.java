@@ -1,3 +1,7 @@
+/*
+Implement Towers Of Hanoi using recursion
+*/
+
 public class TowersOfHanoi {
  public static void main(String args[]) {
   int n = 3;
