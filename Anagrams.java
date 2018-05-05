@@ -1,3 +1,7 @@
+/*
+Given an array of strings , print it in such a way that all anagrams are together
+*/
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
